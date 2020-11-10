@@ -18,8 +18,10 @@ North South University
 
 **Introduction**
 
-*Online photo & Art store* is a online market place where artists and photographer could exhibit or sell their art works or photos. Vendors and customers both can be benefited by this website. These days because of the busy schedule of the people, they don’t have time schedule-wise to visit the art gallery to view the paintings or photography of the famous artists. Specially sometimes we see people use paintings , photos and images without the permission of original artists and artists don’t even get credits for that. Online photo and art store is a platform where the artists can display and sell their products, it is conceivable. The online art and photo store is the application that enables the clients to sell their works and make it available to the visitor’s view.
-Both vendors and customers can access this website and have their own account store their personal information , works, wish lists, reviews etc. 
+*Online photo & Art store* is a online market place where artists and photographer could exhibit or sell their art works or photos. Vendors and customers both can be benefited by this website. These days because of the busy schedule of the people, they don’t have time schedule-wise to visit the art gallery to view the paintings or photography of the famous artists. Specially sometimes we see people use paintings , photos and images without the permission of original artists and artists don’t even get credits for that. Online photo and art store is a platform where the artists can display and sell their products, it is conceivable. 
+
+
+The online art and photo store is the application that enables the clients to sell their works and make it available to the visitor’s view. Both vendors and customers can access this website and have their own account store their personal information , works, wish lists, reviews etc. 
 
  **FEATURES**
  
