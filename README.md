@@ -1,1 +1,2 @@
-        ![logo](northsouth.edu)                                        
+        ![logo](northsouth.edu) 
+        #North South University
