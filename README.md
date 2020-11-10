@@ -1,1 +1,1 @@
-                                                  ![logo](http://northsouthuniversity.edu/logo.jpg)
+        ![logo](northsouth.edu)                                        
