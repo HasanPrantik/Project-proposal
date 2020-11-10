@@ -1,4 +1,4 @@
-   # North South University
+# North South University
 ## CSE299
 ### Project Proposal
 #### Project Name- Online Photo & Art Store
@@ -11,6 +11,9 @@ North South University
 Mahbub Hasan Prantik (1612751042)
 ###### Email-
 [hasan.prantik@northsouth.edu](https://hasan.prantik@northsouth.edu)
+
+
+
 
 
 **Introduction**
