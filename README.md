@@ -4,11 +4,11 @@
 #### Project Name- Online Photo & Art Store
 ##### Submission Date: 14th November 2020
 ###### Submitted To - 
-Shaikh Shawon Arefin Shimon (SAS3)
+**Shaikh Shawon Arefin Shimon (SAS3)**
 Department of Electrical and Computer Engineering
 North South University
 ###### Submitted By-
-Mahbub Hasan Prantik (1612751042)
+**Mahbub Hasan Prantik (1612751042)**
 ###### Email-
 [hasan.prantik@northsouth.edu](https://hasan.prantik@northsouth.edu)
 
