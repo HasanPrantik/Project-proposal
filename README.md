@@ -1,5 +1,4 @@
-![](https//North-South-University-logo-03.png)
-
+![logo](http://www.northsouth.edu)
 # North South University
 ## CSE299
 ### Project Proposal
@@ -39,7 +38,7 @@ The online art and photo store is the application that enables the clients to se
 
 •	Categorically separated all the products.
 
-•	Searching options.
+•	Searching option
 
 •	Auto suggestion assistants.
 
