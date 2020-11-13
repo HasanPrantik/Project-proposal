@@ -81,5 +81,16 @@ Online art gallery is a new concept of trending for modern art lovers who want t
 
 • Fewer infrastructure is required for virtual art galleries so it is very economic. 
 
+**Monetization of Online Photo & Art Store :**
+
+Online photo & art store provides each and every artist with a spot in their very own online gallery to display and sell as they want. No art dealer or agent is required. There will be two types of membership options for the artists which are premium and platinum. They have to pay first a fixed amount of money to get a membership. Artists can choose any of those options and create an account to display his or her art works. On the other hand customer can create an account for free. But when they will buy something they have to pay a fixed amount of money as delivery charge. As an owner of this website I will cut a minimum amount of money as a service charge from that money. 
+
+**Social Impact of Online Photo & Art Store:**
+
+The Social impact of e commerce system is extensive, while our online market is evolving  rapidly.  A lot of experienced entrepreneurs are working in online close to offline. Art and art products always considered as a luxurious item but in online market place artists and common people get closer each other very easily. An artist could be beneficiary by this.  It makes one believe that art is no different. With the evolution of technology and what it can offer the user in terms of experience and overall engagement and above all the reach factor – online is emerging as a very strong medium. Additionally, online art galleries act as a perfect foil for customer’s offline experience. Online medium could be considered as a very good vehicle for building the artist brand which becomes a very important factor in decision making. Specially in the pandemic situations like recent times, online art stores getting popular very fast. Digital arts are one of the new art forms these days which are easily showed and sell in online platform. The beauty of Online Art Marketplaces lies in the fact that it is not restricted to the wealthy. As mentioned earlier that the artists onboard are of different caliber. Some are new but extremely talented and hence would display their works at an affordable range. This is definitely where the middle class and upper middle class can buy their wished art peace. The only challenge for an online medium is to build trust among new buyers and also create loyalty, it would make buying art online a less intimidating job.
+
+
+
+
 
 
