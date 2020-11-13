@@ -16,6 +16,7 @@ North South University
 
 
 
+
 **Introduction**
 
 *Online photo & Art store* is a online market place where artists and photographer could exhibit or sell their art works or photos. Vendors and customers both can be benefited by this website. These days because of the busy schedule of the people, they don’t have time schedule-wise to visit the art gallery to view the paintings or photography of the famous artists. Specially sometimes we see people use paintings , photos and images without the permission of original artists and artists don’t even get credits for that. Online photo and art store is a platform where the artists can display and sell their products, it is conceivable. The online art and photo store is the application that enables the clients to sell their works and make it available to the visitor’s view.
@@ -59,5 +60,26 @@ An online art store is new concept of selling and purchasing art works, both dig
 1.	PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
 
 2.   MySQL: MySql is a database, widely used for accessing querying, updating, and      managing data in databases.
+
+**Scopes for Online Art Store :**
+
+Online art gallery is a new concept of trending for modern art lovers who want to purchase art works but unable to come to gallery or being in their comfort zone. Following are some pointers that should be the scopes and advantages of online art store-
+
+• Art buyers can explore all kind of art works along with digital prints of famous art works of great masters without going anywhere.
+
+• Art viewers can see art works according to their availability of time & within their comfort.
+
+• On traditional art exhibitions art enthusiasts has to go through all the art galleries to find their desired art medium or artist but on online art store, they can search for the same.
+
+• Through online art store people can receive purchased art works directly from artists.
+
+• A complete record of art works as well as artist is also available on site.
+
+• They also provide authenticity of work and you can also cross check it through online.
+
+• These sites are also very helpful for young artist so they get exposure by uploading their work on it.
+
+• Fewer infrastructure is required for virtual art galleries so it is very economic. 
+
 
 
