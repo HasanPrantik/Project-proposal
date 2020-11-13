@@ -1,5 +1,5 @@
 # North South University
-## CSE299
+## CSE299 sec:03
 ### Project Proposal
 #### Project Name- Online Photo & Art Store
 ##### Submission Date: 14th November 2020
