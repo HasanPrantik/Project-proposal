@@ -52,7 +52,7 @@ An online art store is new concept of selling and purchasing art works, both dig
 
 **TECHNOLOGY**
 
-**Front end: HTML, CSS**
+*Front end: HTML, CSS*
 
 1.	HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
 
@@ -60,7 +60,7 @@ An online art store is new concept of selling and purchasing art works, both dig
 
 3.	Bootstrap : responsive design mobile freindly site.
 
-**Back end: PHP, MySQL**
+*Back end: PHP, MySQL*
 
 1.	PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
 
