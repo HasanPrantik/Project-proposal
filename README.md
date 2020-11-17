@@ -1,16 +1,21 @@
-# North South University
-## CSE299 sec:03
-### Project Proposal
-#### Project Name- Online Photo & Art Store
-##### Submission Date: 14th November 2020
-###### Submitted To - 
-**Shaikh Shawon Arefin Shimon (SAS3)**
-Department of Electrical and Computer Engineering
-North South University
-###### Submitted By-
-**Mahbub Hasan Prantik (1612751042)**
-###### Email-
-[hasan.prantik@northsouth.edu](https://hasan.prantik@northsouth.edu)
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
+<p align="center"><strong>North South University</strong></p>
+<p align="center">Department of Electrical &amp; Computer Engineering</p>
+<p align="center"><strong>Project Proposal</strong></p>
+<p align="center"><strong>Group No</strong>: 5</p>
+<p align="center"><strong>Fall 2020</strong></p>
+<p align="center"><strong>Project Name</strong>: Online Photo & Art Store</p>
+<p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 03</p>
+<p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
+<p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
+<p align="center"><strong>Name</strong><strong>:</strong> Mahbub Hasan Prantik</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1612751042</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="hasan.prantik@northsouth.edu">hasan.prantik@northsouth.edu</a></p>
+<p align="center"><strong>Date Prepared</strong><strong>: </strong>14/11/2020</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
 
 
 
